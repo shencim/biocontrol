@@ -28,7 +28,7 @@ Bu sistem sayesinde, adeta sunucu tag’ı gibi pek çok kontrolü sağlayabilir
 
 Aşağıda sistemin birkaç ekran görüntüsünü bulabilirsiniz. Belki ilerde kodlarını da paylaşırım... 😉
 
-![image](https://github.com/user-attachments/assets/80a40a89-59b3-4749-a39a-4fedf2bb6fce)  
+![image](https://github.com/user-attachments/assets/c29fc7fd-c0c0-4155-859c-a4db0f80a366)
 ![image](https://github.com/user-attachments/assets/f0cddeaf-3cfd-4d28-8f37-93b42f1991c2)
 
 ---
