@@ -4,6 +4,8 @@
 ## TÜM DİSCORD PİYASASINDA BİR İLK SİZLERLE
 Evet Sizlerinde Bildiğiniz Üzere Sunucu Tagı Olmayan Sunucularda Biyografi/Hakkımda Muhabbeti İçin Bir Bot Sistemi Gerektiğini Düşündüm Ve Otistikliğimi Gene Kullandım..
 
+**BİR KONUDA AÇIKLIK GETİRMEK İSTEDİM BU SİSTEM HERHANGİ ŞEKİLDE SİZLERİN DÜŞÜNDÜĞÜ GİBİ SELF TOKEN İLE ÇEKİLMİYOR BUNUN İÇİN HESAP İŞİNE HİÇ GİREMEM HERŞEY **BOT** TARAFINDAN YAPILIYOR**
+ 
 İşte Karşınızda Bot Tarafından Aynı Sunucu Tagı Gibi Kontroller Sağlayabileceğiniz Sistemler Bu Patlak Botcuda Mevcuttur..
 
 Bu Sistemi Nerelerde Kullanabileceğinizden Bahsedeyim
