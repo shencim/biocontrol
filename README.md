@@ -38,8 +38,5 @@ Aşağıda sistemin birkaç ekran görüntüsünü bulabilirsiniz. Belki ilerde 
 
 Yaptığım Sistem İle İlgili Bir Kaç Adet Görseli Sizinle Paylaşmak İstedim Belki İleride Kodunu da Paylaşırım..
 
-![image](https://github.com/user-attachments/assets/80a40a89-59b3-4749-a39a-4fedf2bb6fce)
-![image](https://github.com/user-attachments/assets/f0cddeaf-3cfd-4d28-8f37-93b42f1991c2)
-
 
 
